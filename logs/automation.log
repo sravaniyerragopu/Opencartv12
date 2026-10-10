@@ -1,0 +1,13 @@
+2026-10-07 23:39:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Automachion\workspace\Opencartv12\mastertestng.xml
+
+2026-10-07 23:39:18 INFO  Tc_001AccountRegisterationtest:22 - starting the excution
+2026-10-07 23:39:18 INFO  Tc_001AccountRegisterationtest:25 - starting the homepage exceution
+2026-10-07 23:39:19 INFO  Tc_001AccountRegisterationtest:33 - starting the registration
+2026-10-07 23:39:25 INFO  Tc_002Login:20 - started the exection of login
+2026-10-07 23:39:27 INFO  Tc_002Login:40 - finished the execution
+2026-10-07 23:41:28 INFO  Tc_001AccountRegisterationtest:22 - starting the excution
+2026-10-07 23:41:28 INFO  Tc_001AccountRegisterationtest:25 - starting the homepage exceution
+2026-10-07 23:41:29 INFO  Tc_001AccountRegisterationtest:33 - starting the registration
+2026-10-07 23:41:33 INFO  Tc_002Login:20 - started the exection of login
+2026-10-07 23:41:35 INFO  Tc_002Login:40 - finished the execution
